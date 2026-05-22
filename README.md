@@ -5,7 +5,7 @@
 
 <br>
 
-📍 **Analyst:** Fasanya Segun &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/segun-fasanya-879a943b1) &nbsp;|&nbsp; 💻 [Portfolio](https://github.com/simplysmarty/data-analysis-portfolio) &nbsp;|&nbsp; 📊 Power BI · Python · Excel
+📍 **Analyst:** Fasanya Segun &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/segun-fasanya-879a943b1) &nbsp;|&nbsp; 💻 [Portfolio](https://github.com/simplysmarty/data-analysis-portfolio) &nbsp;|&nbsp; 📊 Power BI · Python · Excel · SQL
 
 ---
 
