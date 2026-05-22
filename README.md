@@ -51,10 +51,10 @@ These are the six analytical questions this dashboard is built to answer:
 
 ## 📊 Dashboard Preview
 
-### Page 1 — Dashboard
+### Dashboard
 *KPI cards · Top 5 most expensive vs cheapest countries · Regional fuel prices · Subsidy level vs fuel prices · Tax rate scatter · Global trend*
 
-![Page 1 — Dashboard](screenshots/page1_dashboard.png)
+![Dashboard](assets/Global%20Fuel%20Price%20Dashboard.png?raw=true)
 
 ---
 
